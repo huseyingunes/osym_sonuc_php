@@ -3,4 +3,6 @@
 
 Tüm açıklamalar kodların içinde açıklama satırı olarak bulunmaktadır.
 
-Soru ve görüşleriniz için : hgunes@balikesir.edu.tr
+-------------
+
+Kodlar kötü niyetli kişiler tarafından kötü amaçlarla kullanılabilirmiş. ÖSYM'nin uyarısı üzerine kaldırılmıştır...
